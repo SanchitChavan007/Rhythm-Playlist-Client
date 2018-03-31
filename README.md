@@ -27,14 +27,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Some Screenshots
 
-![picture1](https://user-images.githubusercontent.com/32042786/35406189-3b832cee-01d6-11e8-90be-bbad60038998.png)
+![web0](https://user-images.githubusercontent.com/32002047/38166834-9d498d7e-34f8-11e8-8c4e-9ce730696dbc.png)
+![web1](https://user-images.githubusercontent.com/32002047/38166842-a3d3fd00-34f8-11e8-8efa-361ba79e3f5b.png)
+![web2](https://user-images.githubusercontent.com/32002047/38166844-a7902464-34f8-11e8-8d75-03fa253ed5a3.png)
+![web3](https://user-images.githubusercontent.com/32002047/38166845-aa853d26-34f8-11e8-9c39-6c98d4c96479.png)
+![web5](https://user-images.githubusercontent.com/32002047/38166847-b0062b48-34f8-11e8-8a42-916f2dc734cd.png)
 
-![picture2](https://user-images.githubusercontent.com/32042786/35406198-3f971afc-01d6-11e8-99b7-0369bf1d176d.png)
-
-![picture3](https://user-images.githubusercontent.com/32042786/35406209-42aad01c-01d6-11e8-8481-913641db6094.png)
-
-![picture4](https://user-images.githubusercontent.com/32042786/35406222-4a7f12c6-01d6-11e8-8955-6d8da0f19db0.png)
-
-![picture5](https://user-images.githubusercontent.com/32042786/35406230-509d9a6a-01d6-11e8-9d39-8abd709c8839.png)
-
-![picture6](https://user-images.githubusercontent.com/32042786/35406241-57e72d18-01d6-11e8-8baa-dc988faff3be.png)
