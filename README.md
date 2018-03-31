@@ -1,11 +1,6 @@
 # Rhythm-Playlist-Client
 Designed &amp; developed a web application which allows user to login using their Google or Facebook credentials &amp; search for tracks present in Spotify database &amp; build their own personalized playlist. This project was generated with AngularCli version 1.5.5, Spotify Api, Google and Facebook Login Api.
-
-# RhythmPlaylistClient
-
-Rhythm Playlist Client is a simple app which lets a user login using their Google or Facebook credentials and search for tracks present in Spotify database and build their own personalised playlist.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
-
 
 ## Getting Started and Installation
 
